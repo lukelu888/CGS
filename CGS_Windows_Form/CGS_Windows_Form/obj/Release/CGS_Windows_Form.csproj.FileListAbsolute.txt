@@ -1,0 +1,16 @@
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\bin\Release\CGS_Windows_Form.exe.config
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\bin\Release\CGS_Windows_Form.exe
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\bin\Release\CGS_Windows_Form.pdb
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\bin\Release\CGS_Lib.dll
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\bin\Release\CGS_Lib.pdb
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows_Form.csproj.AssemblyReference.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows_Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows.Login.resources
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows.MainForm.resources
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows_Form.Properties.Resources.resources
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows.sellForm.resources
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows_Form.csproj.GenerateResource.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows_Form.csproj.CoreCompileInputs.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows_Form.csproj.CopyComplete
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows_Form.exe
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Windows_Form\CGS_Windows_Form\obj\Release\CGS_Windows_Form.pdb

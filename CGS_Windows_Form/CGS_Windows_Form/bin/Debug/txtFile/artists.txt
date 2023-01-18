@@ -1,0 +1,4 @@
+All info of Artists:
+ArtistID       FirstName      LastName       
+12345          mo             mo             
+

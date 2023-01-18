@@ -1,0 +1,8 @@
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_struct\CGS_struct\bin\Debug\CGS_struct.exe.config
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_struct\CGS_struct\bin\Debug\CGS_struct.exe
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_struct\CGS_struct\bin\Debug\CGS_struct.pdb
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_struct\CGS_struct\obj\Debug\CGS_struct.csproj.AssemblyReference.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_struct\CGS_struct\obj\Debug\CGS_struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_struct\CGS_struct\obj\Debug\CGS_struct.csproj.CoreCompileInputs.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_struct\CGS_struct\obj\Debug\CGS_struct.exe
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_struct\CGS_struct\obj\Debug\CGS_struct.pdb

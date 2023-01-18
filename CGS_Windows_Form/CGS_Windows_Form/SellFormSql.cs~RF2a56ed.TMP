@@ -1,0 +1,75 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Data.SqlClient;
+
+
+namespace CGS_Windows_Form
+{
+    public partial class SellFormSql : Form
+    {
+        SqlConnection con = new SqlConnection(@"Data Source=LUKE-HP14;Initial Catalog=CGS;Integrated Security=True");
+        public SellFormSql()
+        {
+            InitializeComponent();
+        }
+
+        private void bn_sellSql_displayArtPiece_Click(object sender, EventArgs e)
+        {
+            string query = "SELECT * FROM ArtPiece";
+            SqlDataAdapter sda = new SqlDataAdapter(query, con);
+            DataSet ds = new DataSet();
+            sda.Fill(ds);
+            dgv_sell_artPiece.DataSource = ds.Tables[0];
+        }
+    
+
+        private void bn_sellSql_displayCurator_Click(object sender, EventArgs e)
+        {
+            string query = "SELECT * FROM Curator"; 
+            SqlDataAdapter sda = new SqlDataAdapter(query, con);
+            DataSet ds = new DataSet();
+            sda.Fill(ds);
+            dgv_sell_curator.DataSource = ds.Tables[0];
+        }
+
+        private void bn_sellSql_sell_Click(object sender, EventArgs e)
+        {
+            con.Open();
+            SqlCommand cmd = new SqlCommand("SELECT value from ArtPiece where ArtPieceID ='"+tb_sellSql_artPieceId+"'",con);
+            SqlDataReader reader;
+            reader = cmd.ExecuteReader();
+
+            if (reader.Read())
+            {
+                tb_sellSql_value.Text = reader["Value"].ToString();
+                if(estimate > value){
+                    update status, update estimate,
+                    
+                }
+            }
+            else
+            {
+                tb_sellSql_value.Text = "Sorry!not found";
+            }
+            
+            con.Close();
+
+            //if (String.IsNullOrEmpty(tb_sellSql_artPieceId.Text) || String.IsNullOrEmpty(tb_sellSql_estimate.Text))
+            //{
+            //    MessageBox.Show("pieceID or estimate cannot be empty");
+            //}
+            //else
+            //{
+
+            //}
+
+        }
+    }
+}

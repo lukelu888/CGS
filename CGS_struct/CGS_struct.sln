@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGS_struct", "CGS_struct\CGS_struct.csproj", "{0E76BC40-AA31-4B11-8168-0C6C0089F90D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E76BC40-AA31-4B11-8168-0C6C0089F90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E76BC40-AA31-4B11-8168-0C6C0089F90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E76BC40-AA31-4B11-8168-0C6C0089F90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E76BC40-AA31-4B11-8168-0C6C0089F90D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFFF7C81-D1DB-43B7-AAFC-2D0C0DAC57A2}
+	EndGlobalSection
+EndGlobal

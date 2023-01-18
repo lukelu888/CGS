@@ -1,0 +1,4 @@
+All info of artPieces:
+ArtPieceID     ArtistID       CuratorID      Title          Year           Estimate       Value          Status         
+ap001          at001          c0001          NiceBook       2020           2000           1000           S              
+

@@ -1,0 +1,6 @@
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Lib\CGS_Lib\obj\Debug\CGS_Lib.csproj.AssemblyReference.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Lib\CGS_Lib\obj\Debug\CGS_Lib.csproj.CoreCompileInputs.cache
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Lib\CGS_Lib\bin\Debug\CGS_Lib.dll
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Lib\CGS_Lib\bin\Debug\CGS_Lib.pdb
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Lib\CGS_Lib\obj\Debug\CGS_Lib.dll
+C:\Users\luyin\Documents\LCI\fall2022\multitierApplication\lecture\Project1\CGS_Lib\CGS_Lib\obj\Debug\CGS_Lib.pdb

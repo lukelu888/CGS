@@ -1,0 +1,4 @@
+All info of curators:
+CuratorID      FirstName      LastName       Commission     
+12345          123            23             0              
+
